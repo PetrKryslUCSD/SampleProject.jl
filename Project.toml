@@ -1,0 +1,4 @@
+name = "SampleProject"
+uuid = "66e9e23d-5eed-4c29-8082-73e480ccb046"
+authors = ["Petr Krysl <pkrysl@ucsd.edu>"]
+version = "0.1.0"
